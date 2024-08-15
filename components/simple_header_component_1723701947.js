@@ -28,6 +28,9 @@ Vue.component("simple_header_component_1723701947", {
                         <li id="nav-item-2"><a href="#" class="block py-2 pl-3 pr-4 text-white rounded-lg hover:bg-purple-600 lg:hover:bg-transparent lg:hover:text-white lg:p-0 dark:text-white lg:dark:hover:text-white dark:hover:bg-purple-700 dark:hover:text-white lg:dark:hover:bg-transparent">Upcoming ICOs and Token Sales</a></li>
                         <li id="nav-item-3"><a href="#" class="block py-2 pl-3 pr-4 text-white rounded-lg hover:bg-purple-600 lg:hover:bg-transparent lg:hover:text-white lg:p-0 dark:text-white lg:dark:hover:text-white dark:hover:bg-purple-700 dark:hover:text-white lg:dark:hover:bg-transparent">Blockchain Industry News</a></li>
                     </ul>
+                    <button class="ml-4 px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50">
+                        Hey there
+                    </button>
                 </div>
             </div>
         </nav>
