@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain news feed\", \"checked\": true}, {\"feature\": \"Interactive blockchain technology explorer\", \"checked\": false}, {\"feature\": \"User customizable alerts for blockchain updates\", \"checked\": true}, {\"feature\": \"Blockchain event calendar integration\", \"checked\": false}, {\"feature\": \"Cryptocurrency price tracker\", \"checked\": true}, {\"feature\": \"User feedback and suggestion form\", \"checked\": false}], \"input_token_count\": 250, \"output_token_count\": 101, \"time_taken\": \"0:00:03.238138\"}",
+        "message_id": "guest15082024060640",
+        "timestamp": "15082024060647",
+        "component_file_name": "simple_header_component_1723701947",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button that says \"Hey there\".",
         "message_id": "guest15082024060640",
