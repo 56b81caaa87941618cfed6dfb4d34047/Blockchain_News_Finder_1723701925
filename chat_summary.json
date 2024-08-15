@@ -12,5 +12,11 @@
         "content": "add a button that says hey there",
         "timestamp": "15082024060642",
         "message_id": "guest15082024060640"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button that says \"Hey there\".",
+        "timestamp": "15082024060642",
+        "message_id": "guest15082024060640"
     }
 ]
